@@ -1,10 +1,7 @@
 <html>
 <body>
-<h2>Hallo Erik</h2>
-  <h1>DOEI ERIK</h1>
-je moeder is een boer
-  bananen zijn geel
-  pruimen zijn groen
-  ik zou je doen
+<h1>Hallo allemaal!</h1>
+<p>Rozen zijn rood,<br />Viooltjes zijn blauw</p>
+<p>Ik haat rijmen.</p>
 </body>
 </html>
