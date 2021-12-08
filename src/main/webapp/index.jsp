@@ -5,3 +5,6 @@
 <p>Ik haat rijmen.</p>
 </body>
 </html>
+<video width="400" controls>
+  <source src="https://www.youtube.com/watch?v=dQw4w9WgXcQ" type="video/mp4">
+</video>
